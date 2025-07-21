@@ -1,4 +1,4 @@
-Project Name
+tech
 A brief description of what your project does.
 
 Syntax and Structure
